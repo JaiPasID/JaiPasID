@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 [<img align= "left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" style= "padding-right:11px/>]
+
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiPasID)]

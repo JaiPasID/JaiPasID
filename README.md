@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[<img align= "left" alt="AWS" width="25px" src= "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" dtyle= "padding-right:11px/>]
+[<img align= "left" alt="AWS" width="25px" src= "<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" style= "padding-right:11px/>]
